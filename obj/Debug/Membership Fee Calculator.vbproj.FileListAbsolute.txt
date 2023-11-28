@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.exe.config
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.exe
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.pdb
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\bin\Debug\Membership Fee Calculator.xml
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Form1.resources
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Resources.resources
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.exe
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.xml
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership Fee Calculator.pdb
+C:\Users\user\Desktop\Membership fee Calculator\Membership Fee Calculator\Membership Fee Calculator\obj\Debug\Membership_Fee_Calculator.Form2.resources
